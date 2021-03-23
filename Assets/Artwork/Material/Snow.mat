@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Snow
-  m_Shader: {fileID: -6465566751694194690, guid: a976e00937a7c3545934b0e77eae4a75,
+  m_Shader: {fileID: -6465566751694194690, guid: ef0aa450ca73a844d8af0f6fbb5165f7,
     type: 3}
   m_ShaderKeywords: _ENVIRONMENTREFLECTIONS_OFF
   m_LightmapFlags: 4
@@ -33,6 +33,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_162FE586:
+        m_Texture: {fileID: 2800000, guid: 73b94f68e03b8fa4483ea779bed0c51b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture2D_360CD7C4:
         m_Texture: {fileID: 2800000, guid: 73b94f68e03b8fa4483ea779bed0c51b, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -73,7 +77,9 @@ Material:
     - Vector1_253A888: 15
     - Vector1_41D36212: 20
     - Vector1_995B999E: 0.005
+    - Vector1_A71DF4CD: 0
     - Vector1_C0FD90F3: 2.46
+    - Vector1_CDF2E9A7: 1
     - Vector1_DF3EF828: 0
     - _AlphaClip: 0
     - _Blend: 0
